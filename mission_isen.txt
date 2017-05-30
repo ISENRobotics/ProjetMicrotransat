@@ -1,0 +1,9 @@
+----Fichier mission : ISEN----
+Zone de navigation : (lat_ig/long_ig/lat_sd/long_sd)
+48.40647/-4.49641/48.40763/-4.49479
+----Nombre de bordure:1
+Ligne replusive:(lat_dep/long_dep/lat_arr/long_arr)
+48.40664/-4.49620/48.40668/-4.49500
+----Nombre de waypoint:1
+Waypoint: (lat_dep/long_dep/lat_arr/long_arr)
+48.40759/-4.49508/48.40668/-4.49594
