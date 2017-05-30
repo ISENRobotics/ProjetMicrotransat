@@ -1,6 +1,6 @@
 # Voilier Autonome
 
-## Prérequis
+## Installation
 
 * Linux kernel 3.8 avec une distribution Debian 7.9
 * Installer les packages suivants
@@ -12,4 +12,3 @@
 	* pip install utm==0.4.1
 	* pip install matplotlib==1.3.0
 	* pip install --upgrade PyBBIO // *Lien vers le github PyBBio https://github.com/graycatlabs/PyBBIO/wiki/Installing-PyBBIO*
-
