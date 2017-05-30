@@ -31,6 +31,16 @@ Voilier autonome
 
 ## Lancer le programme de navigation
 
+Lancer un screen afin que le programme tourne sans le lien avec l'ordinateur
+
 	screen -S nom_screen  
+
+Lancer le programme
+
 	python main.py nom_mission.txt
+
+Quitter le screen
+
+	CTRL-a 
+	d
 	
