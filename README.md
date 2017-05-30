@@ -28,3 +28,9 @@ Voilier autonome
 * Girouette : 9-40
 * Centrale Inertielle Razor IMU - SEN-10736 : TX 9-24 / RX 9-26
 * GPS : Port USB
+
+## Lancer le programme de navigation
+
+	screen -S nom_screen  
+	python main.py nom_mission.txt
+	
